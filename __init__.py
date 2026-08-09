@@ -1,0 +1,3 @@
+"""
+Audio tagging package.
+"""
